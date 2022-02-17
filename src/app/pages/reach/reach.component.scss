@@ -1,0 +1,30 @@
+.reach-area ul {
+  padding: 0;
+  margin: 0 0;
+  letter-spacing: 0.35px;
+}
+.reach-area ul li {
+  display: inline-block;
+  width: 30%;
+  color: #1b1e1a;
+  margin: 10px 0;
+  font-size: 14px;
+}
+.reach-area ul li::before {
+  content: "";
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.reach-area ul li::before {
+  width: 10px;
+  height: 10px;
+  background: #602d90;
+}
+img {
+  border-style: none;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+}

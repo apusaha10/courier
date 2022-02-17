@@ -1,0 +1,100 @@
+.banner{
+    background-image: url(../../../assets/image6.jpg);
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+    color: #ffffff;
+    text-align: center;
+    height: 360px;
+    form {
+        justify-content: center;
+    }
+}
+.h1{
+    position: absolute;
+}
+.content a:hover{
+    background-color: var(--primary-color);
+    
+}
+
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .card {
+    width: 350px;
+    padding: 10px;
+    border-radius: 20px;
+    background: orange;
+    border: none;
+    color: #fff;
+    height: auto;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center
+}
+
+.container {
+    height: 100vh
+}
+
+.card h1 {
+    font-size: 48px;
+    margin-bottom: 0px
+}
+
+.card span {
+    font-size: 28px
+}
+
+.image {
+    position: absolute;
+    opacity: .1;
+    left: 0;
+    top: 0
+}
+
+.image2 {
+    position: absolute;body {
+    background: #eee
+}
+
+.card {
+    width: 350px;
+    padding: 10px;
+    border-radius: 20px;
+    background: orange;
+    border: none;
+    color: #fff;
+    height: 350px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center
+}
+
+.container {
+    height: 100vh
+}
+
+.card h1 {
+    font-size: 48px;
+    margin-bottom: 0px
+}
+
+.card span {
+    font-size: 28px
+}
+
+    bottom: 0;
+    right: 0;
+    opacity: .1
+}

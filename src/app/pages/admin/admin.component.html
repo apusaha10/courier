@@ -1,0 +1,8 @@
+<mat-drawer-container>
+    <mat-drawer mode="side" #sideBar opened>
+        <app-sidenav></app-sidenav>
+    </mat-drawer>
+    <mat-drawer-content> 
+        <button mat-icon-button (click)="sideBar.toggle()"><mat-icon>menu</mat-icon></button>
+    </mat-drawer-content>
+</mat-drawer-container>
